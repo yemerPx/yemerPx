@@ -37,7 +37,7 @@ I'm currently working on a configurable document processing system, using **Scru
 
 Feel free to reach out via:
 - [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Email](mailto:your-email@gmail.com)
+- [Email](mailto:eduardrivera2000@gmail.com)
 
 ---
 
