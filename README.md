@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="[Your Name]'s GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yemerPx&show_icons=true&theme=radical&count_private=true" alt="[Your Name]'s GitHub stats"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Feel free to reach out via:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemerPx&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
