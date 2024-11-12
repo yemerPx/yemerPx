@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm [Yemer]</h1>
+<h1 align="center">👋 Hi there! I'm Yemer</h1>
 <h3 align="center">Software Developer | Passionate about Data Science and Machine Learning</h3>
 
 ---
