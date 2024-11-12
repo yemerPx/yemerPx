@@ -36,7 +36,7 @@ I'm currently working on a configurable document processing system, using **Scru
 ### 📫 Contact Me
 
 Feel free to reach out via:
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
+- [LinkedIn](https://www.linkedin.com/in/eduard-rivera-a23454337/)
 - [Email](mailto:eduardrivera2000@gmail.com)
 
 ---
