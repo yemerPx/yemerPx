@@ -3,9 +3,10 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yemerPx&show_icons=true&theme=radical&count_private=true" alt="[Your Name]'s GitHub stats"/>
 </p>
+-->
 
 ---
 
